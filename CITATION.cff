@@ -5,16 +5,14 @@ message: >-
   metadata from this file.
 type: software
 authors:
-  -  given-names: Mannion
+  - given-names: Mannion
     family-names: Renae
     affiliation: Rice University
-
  -  given-names: Fernanda
     family-names: Morales-Calva
     email: fernanda@rice.edu
     affiliation: Rice University
     orcid: 'https://orcid.org/0000-0001-9699-7156'
-
   - given-names: Stephanie
     name-particle: L
     family-names: Leal
