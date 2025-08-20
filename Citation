@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+title: Face-Name Mnemonic Discrimination Task
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Renae
+    family-names: Mannion
+    email: mannion@rice.edu
+    affiliation: Rice University
+  - given-names: Fernanda
+    family-names: Morales-Calva
+    email: fernanda@rice.edu
+    affiliation: Rice University
+    orcid: 'https://orcid.org/0000-0001-9699-7156'
+  - given-names: Stephanie
+    name-particle: L
+    family-names: Leal
+    affiliation: UCLA
+url: 'https://github.com/lealmemorylab/newEMDT'
+abstract: >-
+  This novel emotional mnemonic discrimination task focused on face-name recognition and discrimiantion
+keywords:
+  - MEMORY
+license: CC-BY-4.0
+version: '1.0'
+date-released: '2023-10-10'
